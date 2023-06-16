@@ -117,7 +117,7 @@ public class Programa {
 
                         }
 
-                        case "F":{
+                        case "F":{//com
                             listaString2[i] = "1111";
                             break;
 
